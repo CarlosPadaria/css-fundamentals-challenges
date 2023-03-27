@@ -8,6 +8,7 @@ body {
 
 
 .img {
+    margin-top: 40px;
     border-radius: 100%;
 }
 
@@ -83,11 +84,13 @@ section{
 }
 
 .container{
-    
+  
+  
     margin-left: auto;
     margin-right: auto;
     width: 570px;
 }
+
 
 .black-theme{
     background-color: #252525;
@@ -121,3 +124,9 @@ article{
     margin-top: 32px;
 }
 
+.fancier{
+    border-top: 1px solid #C4C4C4;
+    border-bottom: 1px solid #C4C4C4;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
